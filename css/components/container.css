@@ -1,0 +1,6 @@
+.container {
+  /*flex-grow: 1*/
+  width: 900px;
+  margin: auto;
+  /*display: flex; */
+}
